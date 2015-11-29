@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -602,6 +603,10 @@
     <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1><a id="user-content-servocontroller" class="anchor" href="#servocontroller" aria-hidden="true"><span class="octicon octicon-link"></span></a>ServoController</h1>
 
 <p>Firmware y software para control de servos hasta 18 canales con atmega328</p>
+=======
+# ServoController
+Firmware y software para control de servos hasta 18 canales con atmega328
+>>>>>>> origin/master
 
 <p>Arduino HD Servocontroller </p>
 
@@ -610,6 +615,7 @@ de servos de forma serial haciendo uso de un arduino y su conexión USB-SERIAL</
 
 <p>ArduinoServocontroller, contiene el software de PC compatible con Visual Studio 2013 en adelante</p>
 
+<<<<<<< HEAD
 <p>HDservocontroller, codigo para arduino uno o nano/p&gt;
 
 </p><p>Ejecutable, incluye un .EXE con la última versión generada del software de PC</p>
@@ -690,3 +696,11 @@ de servos de forma serial haciendo uso de un arduino y su conexión USB-SERIAL</
   </body>
 </html>
 
+=======
+<p>HDservocontroller, codigo para arduino uno o nano/p>
+
+<p>Ejecutable, incluye un .EXE con la última versión generada del software de PC</p>
+
+
+<p>Gracias.</p>
+>>>>>>> origin/master
